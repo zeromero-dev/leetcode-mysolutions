@@ -5,4 +5,4 @@
  */
  var search = function(nums, target) {
     return nums.findIndex(it => it === target)
- };
+ };пше
